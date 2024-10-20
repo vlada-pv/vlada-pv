@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**vlada-pv/vlada-pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding Machine Learning Engineer with a keen interest in Natural Language Processing. I hold a Master's degree in Computational Linguistics and am currently honing my skills by actively working with LLMs, developing agents, and fine-tuning models.
 
-Here are some ideas to get you started:
+▎🌟 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Natural Language Processing (NLP)
+
+• Machine Learning
+
+• Large Language Models (LLMs)
+
+• Model Fine-tuning and Development
+
+▎🎤 Talks Presentations
+
+I recently gave a presentation related to NLP, which you can check out [here]( https://www.youtube.com/watch?v=KGqpR3ZR8h8).
+
+▎📚 Research Publications
+
+You can find my academic work and publications on my [ResearchGate profile](https://www.researchgate.net/profile/Vladislava-Pavlikova).
+
+▎💬 Let's Connect!
+
+Feel free to reach out to me through my preferred communication channel ([TG's profile](https://t.me/@wh_vlada)) . I'm always open to discussions, collaborations, and learning opportunities!
+
+Thank you for visiting my profile!
