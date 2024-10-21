@@ -1,6 +1,8 @@
 ## Hello 👋
 
-![Гибли](https://github.com/user-attachments/assets/3e68cac5-6a33-461c-a4f3-fcc70b003c52)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e68cac5-6a33-461c-a4f3-fcc70b003c52" alt="Гибли" width="300"/>
+</p>
 
 I'm a budding Machine Learning Engineer with a keen interest in Natural Language Processing. I hold a Master's degree in Computational Linguistics (2024). Graduated from the [MTS School of Data Analysts](https://www.teta.mts.ru/analytics-school). Currently I am honing my skills by actively working with LLMs, developing agents, building RAG-systems, and fine-tuning models.
 
